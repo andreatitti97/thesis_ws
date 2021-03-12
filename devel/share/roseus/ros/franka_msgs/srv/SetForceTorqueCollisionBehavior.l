@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/franka_msgs/share/roseus/ros/franka_msgs/srv/SetForceTorqueCollisionBehavior.l

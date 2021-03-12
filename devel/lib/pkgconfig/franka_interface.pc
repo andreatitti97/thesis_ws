@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/franka_interface/lib/pkgconfig/franka_interface.pc

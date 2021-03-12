@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/andrea/thesis_ws/devel/.private/panda_sim_controllers/setup.sh

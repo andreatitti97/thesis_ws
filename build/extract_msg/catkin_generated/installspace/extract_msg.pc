@@ -1,0 +1,8 @@
+prefix=/home/andrea/thesis_ws/install
+
+Name: extract_msg
+Description: Description of extract_msg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

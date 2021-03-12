@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/panda_simulator_examples/lib/pkgconfig/panda_simulator_examples.pc

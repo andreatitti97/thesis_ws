@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/andrea/thesis_ws/build/python_orocos_kdl/devel/setup.sh

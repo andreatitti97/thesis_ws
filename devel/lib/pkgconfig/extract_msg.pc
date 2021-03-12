@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/extract_msg/lib/pkgconfig/extract_msg.pc

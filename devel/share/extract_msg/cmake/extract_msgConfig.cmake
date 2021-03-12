@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/extract_msg/share/extract_msg/cmake/extract_msgConfig.cmake

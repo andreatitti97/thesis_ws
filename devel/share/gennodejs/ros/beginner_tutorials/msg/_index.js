@@ -1,8 +1,1 @@
-
-"use strict";
-
-let Num = require('./Num.js');
-
-module.exports = {
-  Num: Num,
-};
+/home/andrea/thesis_ws/devel/.private/beginner_tutorials/share/gennodejs/ros/beginner_tutorials/msg/_index.js

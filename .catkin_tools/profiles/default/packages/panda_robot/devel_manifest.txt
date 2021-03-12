@@ -1,0 +1,3 @@
+panda_robot
+/home/andrea/thesis_ws/devel/.private/panda_robot/cmake.lock /home/andrea/thesis_ws/devel/./cmake.lock
+/home/andrea/thesis_ws/devel/.private/panda_robot/lib/python2.7/dist-packages/panda_robot/__init__.py /home/andrea/thesis_ws/devel/lib/python2.7/dist-packages/panda_robot/__init__.py

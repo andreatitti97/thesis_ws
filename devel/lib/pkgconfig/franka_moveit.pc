@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/franka_moveit/lib/pkgconfig/franka_moveit.pc

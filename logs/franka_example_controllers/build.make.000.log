@@ -1,0 +1,159 @@
+[35m[1mScanning dependencies of target franka_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _franka_example_controllers_generate_messages_check_deps_JointTorqueComparison[0m
+[35m[1mScanning dependencies of target franka_example_controllers_gencfg[0m
+[  0%] Built target franka_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  4%] [34m[1mGenerating dynamic reconfigure files from cfg/compliance_param.cfg: /home/andrea/thesis_ws/devel/.private/franka_example_controllers/include/franka_example_controllers/compliance_paramConfig.h /home/andrea/thesis_ws/devel/.private/franka_example_controllers/lib/python2.7/dist-packages/franka_example_controllers/cfg/compliance_paramConfig.py[0m
+[  9%] [34m[1mGenerating dynamic reconfigure files from cfg/desired_mass_param.cfg: /home/andrea/thesis_ws/devel/.private/franka_example_controllers/include/franka_example_controllers/desired_mass_paramConfig.h /home/andrea/thesis_ws/devel/.private/franka_example_controllers/lib/python2.7/dist-packages/franka_example_controllers/cfg/desired_mass_paramConfig.py[0m
+[  9%] Built target tf2_msgs_generate_messages_nodejs
+[ 14%] [34m[1mGenerating dynamic reconfigure files from cfg/dual_arm_compliance_param.cfg: /home/andrea/thesis_ws/devel/.private/franka_example_controllers/include/franka_example_controllers/dual_arm_compliance_paramConfig.h /home/andrea/thesis_ws/devel/.private/franka_example_controllers/lib/python2.7/dist-packages/franka_example_controllers/cfg/dual_arm_compliance_paramConfig.py[0m
+[ 14%] Built target _franka_example_controllers_generate_messages_check_deps_JointTorqueComparison
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+Generating reconfiguration files for desired_mass_param in franka_example_controllers
+Wrote header file in /home/andrea/thesis_ws/devel/.private/franka_example_controllers/include/franka_example_controllers/desired_mass_paramConfig.h
+[ 14%] Built target tf2_msgs_generate_messages_lisp
+Generating reconfiguration files for compliance_param in franka_example_controllers
+Generating reconfiguration files for dual_arm_compliance_param in franka_combined_example_controllers
+Wrote header file in /home/andrea/thesis_ws/devel/.private/franka_example_controllers/include/franka_example_controllers/compliance_paramConfig.h
+[ 14%] Built target tf2_msgs_generate_messages_eus
+Wrote header file in /home/andrea/thesis_ws/devel/.private/franka_example_controllers/include/franka_example_controllers/dual_arm_compliance_paramConfig.h
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[ 14%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[ 14%] Built target sensor_msgs_generate_messages_cpp
+[ 14%] Built target sensor_msgs_generate_messages_nodejs
+[ 14%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[35m[1mScanning dependencies of target franka_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 14%] Built target franka_msgs_generate_messages_py
+[ 14%] Built target dynamic_reconfigure_generate_messages_eus
+[ 14%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target franka_example_controllers_generate_messages_nodejs[0m
+[ 14%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 19%] [34m[1mGenerating Javascript code from franka_example_controllers/JointTorqueComparison.msg[0m
+[ 19%] Built target std_msgs_generate_messages_eus
+[ 19%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[ 19%] Built target franka_example_controllers_gencfg
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 19%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[ 19%] Built target std_msgs_generate_messages_py
+[ 19%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[ 19%] Built target tf_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 19%] Built target franka_example_controllers_generate_messages_nodejs
+[ 19%] Built target rosgraph_msgs_generate_messages_lisp
+[ 19%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 19%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target franka_msgs_generate_messages_lisp[0m
+[ 19%] Built target tf_generate_messages_cpp
+[ 19%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 19%] Built target std_msgs_generate_messages_lisp
+[ 19%] Built target franka_msgs_generate_messages_lisp
+[ 19%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 19%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target franka_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 19%] Built target geometry_msgs_generate_messages_eus
+[ 19%] Built target tf_generate_messages_eus
+[ 19%] Built target actionlib_msgs_generate_messages_py
+[ 19%] Built target franka_msgs_generate_messages_cpp
+[ 19%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[ 19%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 19%] Built target tf_generate_messages_nodejs
+[ 19%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[ 19%] Built target dynamic_reconfigure_generate_messages_py
+[ 19%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[35m[1mScanning dependencies of target franka_example_controllers_generate_messages_lisp[0m
+[ 19%] Built target dynamic_reconfigure_gencfg
+[ 23%] [34m[1mGenerating Lisp code from franka_example_controllers/JointTorqueComparison.msg[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 23%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 23%] Built target actionlib_msgs_generate_messages_lisp
+[ 23%] Built target franka_example_controllers_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 23%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 23%] Built target actionlib_msgs_generate_messages_nodejs
+[ 23%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[ 23%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 23%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[ 23%] Built target actionlib_generate_messages_lisp
+[ 23%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 23%] Built target actionlib_msgs_generate_messages_cpp
+[ 23%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[ 23%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target franka_msgs_generate_messages_eus[0m
+[ 23%] Built target franka_msgs_generate_messages_eus
+[ 23%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 23%] Built target std_msgs_generate_messages_nodejs
+[ 23%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target franka_example_controllers_generate_messages_eus[0m
+[35m[1mScanning dependencies of target franka_example_controllers_generate_messages_cpp[0m
+[ 28%] [34m[1mGenerating EusLisp code from franka_example_controllers/JointTorqueComparison.msg[0m
+[ 33%] [34m[1mGenerating C++ code from franka_example_controllers/JointTorqueComparison.msg[0m
+[ 38%] [34m[1mGenerating EusLisp manifest code for franka_example_controllers[0m
+[ 38%] Built target franka_example_controllers_generate_messages_cpp
+[35m[1mScanning dependencies of target franka_example_controllers_generate_messages_py[0m
+[ 42%] [34m[1mGenerating Python from MSG franka_example_controllers/JointTorqueComparison[0m
+[ 47%] [34m[1mGenerating Python msg __init__.py for franka_example_controllers[0m
+[ 47%] Built target franka_example_controllers_generate_messages_py
+[35m[1mScanning dependencies of target franka_example_controllers_gencpp[0m
+[ 47%] Built target franka_example_controllers_gencpp
+[ 47%] Built target franka_example_controllers_generate_messages_eus
+[35m[1mScanning dependencies of target franka_example_controllers[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/elbow_example_controller.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/cartesian_pose_example_controller.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/cartesian_velocity_example_controller.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/joint_position_example_controller.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/joint_velocity_example_controller.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/model_example_controller.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/joint_impedance_example_controller.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/cartesian_impedance_example_controller.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/force_example_controller.cpp.o[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/franka_example_controllers.dir/src/dual_arm_cartesian_impedance_example_controller.cpp.o[0m
+[35m[1mScanning dependencies of target franka_example_controllers_generate_messages[0m
+[ 95%] Built target franka_example_controllers_generate_messages
+[100%] [32m[1mLinking CXX shared library /home/andrea/thesis_ws/devel/.private/franka_example_controllers/lib/libfranka_example_controllers.so[0m
+[100%] Built target franka_example_controllers

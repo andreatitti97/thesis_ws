@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fd854/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fd854.dir/build.make CMakeFiles/cmTC_fd854.dir/build
+make[1]: ingresso nella directory "/home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp"
+Building C object CMakeFiles/cmTC_fd854.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_fd854.dir/CheckSymbolExists.c.o   -c /home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_fd854
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fd854.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_fd854.dir/CheckSymbolExists.c.o  -o cmTC_fd854 -rdynamic 
+CMakeFiles/cmTC_fd854.dir/CheckSymbolExists.c.o: nella funzione "main":
+CheckSymbolExists.c:(.text+0x16): riferimento non definito a "pthread_create"
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_fd854.dir/build.make:97: set di istruzioni per l'obiettivo "cmTC_fd854" non riuscito
+make[1]: *** [cmTC_fd854] Errore 1
+make[1]: uscita dalla directory "/home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp"
+Makefile:126: set di istruzioni per l'obiettivo "cmTC_fd854/fast" non riuscito
+make: *** [cmTC_fd854/fast] Errore 2
+
+File /home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a617c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a617c.dir/build.make CMakeFiles/cmTC_a617c.dir/build
+make[1]: ingresso nella directory "/home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp"
+Building C object CMakeFiles/cmTC_a617c.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_a617c.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a617c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a617c.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_a617c.dir/CheckFunctionExists.c.o  -o cmTC_a617c -rdynamic -lpthreads 
+/usr/bin/ld: impossibile trovare -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_a617c.dir/build.make:97: set di istruzioni per l'obiettivo "cmTC_a617c" non riuscito
+make[1]: *** [cmTC_a617c] Errore 1
+make[1]: uscita dalla directory "/home/andrea/thesis_ws/build/catkin_tools_prebuild/CMakeFiles/CMakeTmp"
+Makefile:126: set di istruzioni per l'obiettivo "cmTC_a617c/fast" non riuscito
+make: *** [cmTC_a617c/fast] Errore 2
+
+

@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/panda_gazebo/lib/pkgconfig/panda_gazebo.pc

@@ -1,0 +1,8 @@
+prefix=/home/andrea/thesis_ws/devel/.private/franka_gripper
+
+Name: franka_gripper
+Description: Description of franka_gripper
+Version: 0.7.0
+Cflags: -I/home/andrea/thesis_ws/devel/.private/franka_gripper/include -I/home/andrea/thesis_ws/src/franka_ros/franka_gripper/include -I/opt/ros/kinetic/include/libfranka
+Libs: -L${prefix}/lib -lfranka_gripper /opt/ros/kinetic/lib/libfranka.so.0.8.0
+Requires: roscpp message_runtime control_msgs actionlib sensor_msgs xmlrpcpp actionlib_msgs

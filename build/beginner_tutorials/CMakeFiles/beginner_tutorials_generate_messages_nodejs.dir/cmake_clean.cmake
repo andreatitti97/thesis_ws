@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/beginner_tutorials_generate_messages_nodejs"
-  "/home/andrea/thesis_ws/devel/share/gennodejs/ros/beginner_tutorials/msg/Num.js"
+  "/home/andrea/thesis_ws/devel/.private/beginner_tutorials/share/gennodejs/ros/beginner_tutorials/msg/Num.js"
 )
 
 # Per-language clean rules from dependency scanning.

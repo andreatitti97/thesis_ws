@@ -1,0 +1,1 @@
+/home/andrea/thesis_ws/devel/.private/panda_sim_controllers/lib/pkgconfig/panda_sim_controllers.pc
