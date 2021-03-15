@@ -1,0 +1,7 @@
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_interface/share/franka_interface/cmake/franka_interfaceConfig.cmake, /home/andrea/thesis_ws/devel/share/franka_interface/cmake/franka_interfaceConfig.cmake)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_interface/share/franka_interface/cmake/franka_interfaceConfig-version.cmake, /home/andrea/thesis_ws/devel/share/franka_interface/cmake/franka_interfaceConfig-version.cmake)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_interface/lib/libcustom_franka_state_controller.so, /home/andrea/thesis_ws/devel/lib/libcustom_franka_state_controller.so)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_interface/lib/pkgconfig/franka_interface.pc, /home/andrea/thesis_ws/devel/lib/pkgconfig/franka_interface.pc)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_interface/lib/python2.7/dist-packages/franka_dataflow/__init__.py, /home/andrea/thesis_ws/devel/lib/python2.7/dist-packages/franka_dataflow/__init__.py)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_interface/lib/python2.7/dist-packages/franka_interface/__init__.py, /home/andrea/thesis_ws/devel/lib/python2.7/dist-packages/franka_interface/__init__.py)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_interface/lib/franka_interface/custom_franka_control_node, /home/andrea/thesis_ws/devel/lib/franka_interface/custom_franka_control_node)

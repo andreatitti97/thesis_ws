@@ -1,0 +1,31 @@
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:76 (find_package):
+  Could not find a package configuration file provided by "libfranka" with
+  any of the following names:
+
+    libfrankaConfig.cmake
+    libfranka-config.cmake
+
+  Add the installation prefix of "libfranka" to CMAKE_PREFIX_PATH or set
+  "libfranka_DIR" to a directory containing one of the above files.  If
+  "libfranka" provides a separate development package or SDK, be sure it has
+  been installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:7 (find_package)
+
+
+[31m[1mCMake Error[0m at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+  Could not find a package configuration file provided by "libfranka" with
+  any of the following names:
+
+    libfrankaConfig.cmake
+    libfranka-config.cmake
+
+  Add the installation prefix of "libfranka" to CMAKE_PREFIX_PATH or set
+  "libfranka_DIR" to a directory containing one of the above files.  If
+  "libfranka" provides a separate development package or SDK, be sure it has
+  been installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:7 (find_package)
+
+
+make: *** [cmake_check_build_system] Errore 1

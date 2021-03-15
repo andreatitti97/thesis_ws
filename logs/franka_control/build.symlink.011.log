@@ -1,0 +1,6 @@
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_control/share/franka_control/cmake/franka_controlConfig-version.cmake, /home/andrea/thesis_ws/devel/share/franka_control/cmake/franka_controlConfig-version.cmake)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_control/share/franka_control/cmake/franka_controlConfig.cmake, /home/andrea/thesis_ws/devel/share/franka_control/cmake/franka_controlConfig.cmake)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_control/lib/libfranka_state_controller.so, /home/andrea/thesis_ws/devel/lib/libfranka_state_controller.so)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_control/lib/pkgconfig/franka_control.pc, /home/andrea/thesis_ws/devel/lib/pkgconfig/franka_control.pc)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_control/lib/franka_control/franka_combined_control_node, /home/andrea/thesis_ws/devel/lib/franka_control/franka_combined_control_node)
+Linked: (/home/andrea/thesis_ws/devel/.private/franka_control/lib/franka_control/franka_control_node, /home/andrea/thesis_ws/devel/lib/franka_control/franka_control_node)

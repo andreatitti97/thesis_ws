@@ -1,0 +1,21 @@
+[31m[1mCMake Error[0m at /home/andrea/thesis_ws/src/panda_robot/CMakeLists.txt:24 (add_executable):
+  Cannot find source file:
+
+    script/2_test.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Warning (dev) at CMakeLists.txt:26 (add_dependencies):
+  Policy CMP0046 is not set: Error on non-existent dependency in
+  add_dependencies.  Run "cmake --help-policy CMP0046" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  The dependency target "panda_robot_generate_messages_cpp" of target
+  "2_test" does not exist.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error: CMake can not determine linker language for target: 2_test
+CMake Error: Cannot determine link language for target "2_test".
+make: *** [cmake_check_build_system] Errore 1

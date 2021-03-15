@@ -8,9 +8,9 @@ def timer_callback(event): # Type rospy.TimerEvent
     print(str(None) if robot_state_jacobian is None else str(robot_state_jacobian))
 def sub_callback(data):
     global robot_state_jacobian
-    rospy.loginfo(data.O_Jac_EE)
+    #rospy.loginfo(data.O_Jac_EE)
     robot_state_jacobian = data.O_Jac_EE
-    
+    print robot_state_jacobian
 def listener():
 
     rospy.init_node('listener', anonymous=True)
